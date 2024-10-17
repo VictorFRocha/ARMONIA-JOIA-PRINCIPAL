@@ -48,5 +48,5 @@ function atualizarCarrinho() {
 // Função para finalizar a compra
 function finalizarCompra() {
     alert('Compra finalizada com sucesso!');
-    // Aqui você pode adicionar a lógica de pagamento, etc.
+    
 }
