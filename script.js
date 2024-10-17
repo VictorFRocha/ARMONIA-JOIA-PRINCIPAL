@@ -1,6 +1,6 @@
 // Array de usuários para simulação
 const usuarios = [
-    { email: "victorferreirarocha03@gmail.com", senha: "senha123" }
+    { email: "teste@gmail.com", senha: "senha123" }
 ];
 
 // Função de login
